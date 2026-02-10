@@ -141,6 +141,6 @@ Dashboard screenshots and full SQL logic are provided within this repository.
 
 ## 👤 Author
 
-Your Name  
+Zenin K
 Aspiring Data Analyst  
 SQL | Power BI | Data Visualization
