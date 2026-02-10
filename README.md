@@ -123,18 +123,20 @@ Dashboard screenshots and full SQL logic are provided within this repository.
 
 ---
 
-## 📷 Dashboard Preview
+## 📊 Dashboard Preview
 
-## Executive Overview
-![Executive Overview]([dashboard-snaps/Executive%20Overview.PNG](https://github.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/blob/main/Dashboard%20snaps/Executive%20Overview.PNG))
+### Executive Overview
+![Executive Overview](https://raw.githubusercontent.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/main/Dashboard%20snaps/Executive%20Overview.PNG)
 
-## Revenue Analysis 
-![Revenue ANalysis] ().
-## Customer Insights
-![Customer Insights](dashboard-snaps/Customer%20Insights.PNG)
+### Revenue Analysis
+![Revenue Analysis](https://raw.githubusercontent.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/main/Dashboard%20snaps/Revenue%20Analysis.PNG)
 
-## Delivery Metrics
-![Delivery Metrics](dashboard-snaps/Delivery%20Metrices.PNG)
+### Customer Insights
+![Customer Insights](https://raw.githubusercontent.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/main/Dashboard%20snaps/Customer%20Insights.PNG)
+
+### Delivery Metrics
+![Delivery Metrics](https://raw.githubusercontent.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/main/Dashboard%20snaps/Delivery%20Metrices.PNG)
+
 ---
 
 ## 👤 Author
