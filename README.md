@@ -126,8 +126,10 @@ Dashboard screenshots and full SQL logic are provided within this repository.
 ## 📷 Dashboard Preview
 
 ## Executive Overview
-![Executive Overview](dashboard-snaps/Executive%20Overview.PNG)
+![Executive Overview]([dashboard-snaps/Executive%20Overview.PNG](https://github.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/blob/main/Dashboard%20snaps/Executive%20Overview.PNG))
 
+## Revenue Analysis 
+![Revenue ANalysis] ().
 ## Customer Insights
 ![Customer Insights](dashboard-snaps/Customer%20Insights.PNG)
 
