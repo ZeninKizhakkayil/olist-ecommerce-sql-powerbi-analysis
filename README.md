@@ -89,7 +89,7 @@ Revenue shows predictable peaks and dips, suggesting opportunities for targeted 
 - Payment risk analysis
 
 ### 03_Create_Views_Data_Model.sql
-- vw_orders_master
+- vw_orders_masterhttps://github.com/ZeninKizhakkayil/olist-ecommerce-sql-powerbi-analysis/blob/main/README.md
 - vw_customer_summary
 - vw_customer_revenue
 - vw_reviews
@@ -125,10 +125,14 @@ Dashboard screenshots and full SQL logic are provided within this repository.
 
 ## 📷 Dashboard Preview
 
-![Executive Overview](images/executive_overview.png)
-![Customer Insights](images/customer_insights.png)
-![Delivery Metrics](images/delivery_metrics.png)
+## Executive Overview
+![Executive Overview](dashboard-snaps/Executive%20Overview.PNG)
 
+## Customer Insights
+![Customer Insights](dashboard-snaps/Customer%20Insights.PNG)
+
+## Delivery Metrics
+![Delivery Metrics](dashboard-snaps/Delivery%20Metrices.PNG)
 ---
 
 ## 👤 Author
